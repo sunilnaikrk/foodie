@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+}
+.listen{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.dis img{
+    margin-top: 15px;
+    height: 300px;
+    width: 300px;
+}

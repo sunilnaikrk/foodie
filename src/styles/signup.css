@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+}
+.app{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    box-shadow: 0px 0px 15px black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 550px;
+    transform: translateX(350px);
+    background-color: rgb(3, 10, 69);
+    color: white;
+}
+.app input{
+    padding: 5px 10px;
+    padding-right: 20px;
+}
+/* .photo{ */
+    /* margin: 10px 0px; */
+    /* padding-left: 20px; */
+/* } */
+.photo img{
+    margin-top: 5px;
+    width: 290px;
+    height: 410px;
+    /* padding-left: 60px; */
+}
+.sign{
+    text-align: center;
+    /* padding-left: 60px; */
+    padding: 0px 30px;
+}
+.sign button{
+    margin-top: 50px;
+    padding: 5px 50px;
+    background-color: orange;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 14px;
+    border-radius: 10px;
+    border: none;
+}
+.sign h2{
+    text-align: center;
+    color: aqua;
+    font-style: italic;
+}
+.sign a{
+    color: white;
+    text-decoration: none;
+    
+}
+
